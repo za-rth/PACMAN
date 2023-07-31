@@ -1,0 +1,167 @@
+﻿  PacShow.cpp
+C:\Users\anoth\Desktop\PacShow\PacShow\maze.h(135,42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\maze.h(135,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\maze.h(151,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\maze.h(151,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\targetCalc.h(31,38): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\targetCalc.h(31,26): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\targetCalc.h(68,31): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\targetCalc.h(69,31): warning C4244: '+=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\targetCalc.h(75,25): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\targetCalc.h(76,25): warning C4244: '=': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\targetCalc.h(80,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\targetCalc.h(81,10): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\gameText.h(52,17): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\gameText.h(88,10): warning C4244: 'initializing': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\fruit.h(110,17): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\fruit.h(117,19): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\fruit.h(128,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\fruit.h(128,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\starter.h(100,32): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\starter.h(217,22): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\starter.h(250,44): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(49,74): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(42,7): message : while compiling class template member function 'void Ghost<Starter>::reset(void)'
+C:\Users\anoth\Desktop\PacShow\PacShow\starter.h(361,16): message : see the first reference to 'Ghost<Starter>::reset' in 'Starter::resetPacGhost'
+C:\Users\anoth\Desktop\PacShow\PacShow\starter.h(52,1): message : see reference to class template instantiation 'Ghost<Starter>' being compiled
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(49,53): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(309,43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(307,7): message : while compiling class template member function 'void Ghost<Starter>::setGridPosition(int,int)'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(48,19): message : see the first reference to 'Ghost<Starter>::setGridPosition' in 'Ghost<Starter>::reset'
+C:\Users\anoth\Desktop\PacShow\PacShow\starter.h(361,16): message : see the first reference to 'Ghost<Starter>::reset' in 'Starter::resetPacGhost'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(309,30): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(81,76): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(77,7): message : while compiling class template member function 'void Ghost<Starter>::init(void)'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(23,7): message : see the first reference to 'Ghost<Starter>::init' in 'Ghost<Starter>::Ghost'
+C:\Users\anoth\Desktop\PacShow\PacShow\starter.h(52,11): message : see the first reference to 'Ghost<Starter>::Ghost' in 'Starter::Starter'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(81,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(331,63): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(329,10): message : while compiling class template member function 'void Pac<Starter>::setGridPosition(int,int)'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(67,28): message : see the first reference to 'Pac<Starter>::setGridPosition' in 'Pac<Starter>::reset'
+C:\Users\anoth\Desktop\PacShow\PacShow\starter.h(360,13): message : see the first reference to 'Pac<Starter>::reset' in 'Starter::resetPacGhost'
+C:\Users\anoth\Desktop\PacShow\PacShow\starter.h(51,1): message : see reference to class template instantiation 'Pac<Starter>' being compiled
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(331,40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(90,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(86,10): message : while compiling class template member function 'void Pac<Starter>::init(void)'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(24,13): message : see the first reference to 'Pac<Starter>::init' in 'Pac<Starter>::Pac'
+C:\Users\anoth\Desktop\PacShow\PacShow\starter.h(51,8): message : see the first reference to 'Pac<Starter>::Pac' in 'Starter::Starter'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(90,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(93,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(93,23): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(106,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(92,7): message : while compiling class template member function 'void Ghost<Starter>::loop(void)'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(87,41): message : see the first reference to 'Ghost<Starter>::loop' in 'Ghost<Starter>::init::<lambda_1>::operator ()'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(106,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(101,10): message : while compiling class template member function 'void Pac<Starter>::loop(void)'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(95,47): message : see the first reference to 'Pac<Starter>::loop' in 'Pac<Starter>::init::<lambda_1>::operator ()'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(329,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(327,7): message : while compiling class template member function 'bool Ghost<Starter>::collidToPac(void)'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(240,4): message : see the first reference to 'Ghost<Starter>::collidToPac' in 'Ghost<Starter>::animation'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(97,13): message : see the first reference to 'Ghost<Starter>::animation' in 'Ghost<Starter>::loop'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(87,41): message : see the first reference to 'Ghost<Starter>::loop' in 'Ghost<Starter>::init::<lambda_1>::operator ()'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(330,11): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(323,38): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(321,6): message : while compiling class template member function 'int Ghost<Starter>::getPosGridY(void)'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(272,3): message : see the first reference to 'Ghost<Starter>::getPosGridY' in 'Ghost<Starter>::animation'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(97,13): message : see the first reference to 'Ghost<Starter>::animation' in 'Ghost<Starter>::loop'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(87,41): message : see the first reference to 'Ghost<Starter>::loop' in 'Ghost<Starter>::init::<lambda_1>::operator ()'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(317,38): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(315,6): message : while compiling class template member function 'int Ghost<Starter>::getPosGridX(void)'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(272,3): message : see the first reference to 'Ghost<Starter>::getPosGridX' in 'Ghost<Starter>::animation'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(97,13): message : see the first reference to 'Ghost<Starter>::animation' in 'Ghost<Starter>::loop'
+C:\Users\anoth\Desktop\PacShow\PacShow\ghost.h(87,41): message : see the first reference to 'Ghost<Starter>::loop' in 'Ghost<Starter>::init::<lambda_1>::operator ()'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(199,43): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(197,9): message : while compiling class template member function 'int Pac<Starter>::getPosGridY(void)'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(245,37): message : see the first reference to 'Pac<Starter>::getPosGridY' in 'Pac<Starter>::animation'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(108,22): message : see the first reference to 'Pac<Starter>::animation' in 'Pac<Starter>::loop'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(95,47): message : see the first reference to 'Pac<Starter>::loop' in 'Pac<Starter>::init::<lambda_1>::operator ()'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(193,41): warning C4244: 'return': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(191,9): message : while compiling class template member function 'int Pac<Starter>::getPosGridX(void)'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(206,9): message : see the first reference to 'Pac<Starter>::getPosGridX' in 'Pac<Starter>::animation'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(108,22): message : see the first reference to 'Pac<Starter>::animation' in 'Pac<Starter>::loop'
+C:\Users\anoth\Desktop\PacShow\PacShow\pac.h(95,47): message : see the first reference to 'Pac<Starter>::loop' in 'Pac<Starter>::init::<lambda_1>::operator ()'
+  PacShow.vcxproj -> C:\Users\anoth\Desktop\PacShow\x64\Debug\PacShow.exe
